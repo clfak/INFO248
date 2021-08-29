@@ -1,4 +1,4 @@
-# Proyecto LAGJ
+# Proyecto LAGJ - INFO282 
 
 Proyecto para el curso INFO248: Ingeniería de Software
 
