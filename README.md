@@ -1,6 +1,6 @@
 # Proyecto LAGJ - INFO282 
 
-Proyecto para el curso INFO248: Ingeniería de Software
+Proyecto para el curso INFO282: Taller de Ingeniería de Software
 
 
 **Integrantes:**
