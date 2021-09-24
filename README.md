@@ -16,5 +16,5 @@ Proyecto para el curso INFO282: Taller de Ingeniería de Software
 
 * [Estimación de Esfuerzo COCOMO](https://github.com/clfak/LAGJ/blob/main/Documentaci%C3%B3n/Estimacion_de_Esfuerzo_LAGJ.pdf)
 
-* [Modelamiento de Procesos BPMN](https://github.com/clfak/LAGJ/tree/main/Documentaci%C3%B3n/Procesos_BPMN)
+* [Modelamiento de Procesos BPMN](https://github.com/clfak/LAGJ/blob/main/Documentaci%C3%B3n/Procesos_BPMN/Procesos.md)
 
