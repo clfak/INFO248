@@ -18,3 +18,5 @@ Proyecto para el curso INFO282: Taller de Ingeniería de Software
 
 * [Modelamiento de Procesos BPMN](https://github.com/clfak/LAGJ/blob/main/Documentaci%C3%B3n/Procesos_BPMN/Procesos.md)
 
+* [Diseño preliminar de interacción](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/HCI/Informe%20C2%20Dise%C3%B1o%20Preliminar%20de%20Interacci%C3%B3n.pdf)
+
