@@ -20,3 +20,7 @@ Proyecto para el curso INFO282: Taller de Ingeniería de Software
 
 * [Diseño preliminar de interacción](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/HCI/Informe%20C2%20Dise%C3%B1o%20Preliminar%20de%20Interacci%C3%B3n.pdf)
 
+
+* [Análisis y Diseño](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/Analisis%20y%20Dise%C3%B1o.pdf)
+
+
