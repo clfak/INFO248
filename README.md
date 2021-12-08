@@ -21,6 +21,6 @@ Proyecto para el curso INFO282: Taller de Ingeniería de Software
 * [Diseño de Interfaz](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/HCI/Informe%20final_%20Interfaz.pdf)
 
 
-* [Análisis y Diseño](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/Analisis%20y%20Dise%C3%B1o.pdf)
+* [Análisis y Diseño](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/Analisis%20y%20dise%C3%B1o.pdf)
 
 * [Modelamiento Base de Datos](https://github.com/clfak/LAGJ-TRANSPORTES/blob/main/Documentaci%C3%B3n/Modelamiento%20Base%20de%20datos/ModeloBasededatos.pdf)
